@@ -47,6 +47,6 @@
   -->
 <h3>
   Tools: <br>
-  <img title="Git" height="35" src="images/git-original.svg">
-  <img title="GitHub" height="35" src="images/github.svg">
+  <img title="Git" height="45" src="images/git-original.svg">
+  <img title="GitHub" height="45" src="images/github.png">
 </h3>
