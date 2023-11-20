@@ -17,26 +17,23 @@ A few things about me:
   </ul>
 
 <h1> :man_technologist: Languages & Libraries & Tools</h2><br>
-<h2>
+<p>
   Languages: <img title="Python" height="35" src="images/python-original.svg">
-</h2>
+</p>
 <be>
-<h2>
+<p>
   Libraries/Packages:
   <img title="Numpy" height="35" src="images/numpy.svg">
   <img title="Pandas" height="35" src="images/pandas.svg">
   <img title="Matplotlib" height="35" src="images/matplotlib.svg">
   <img title="Seaborn" height="35" src="images/seaborn.svg">
   <img title="Scikit Learn" height="35" src="images/Scikit_learn.svg">
-</h2>
+</p>
 <br>
-  <h2>
+  <p>
     <img title="HTML5" height="35" src="images/html5.svg">
     <img title="CSS" height="35" src="images/css.svg">
     <img title="JSON" height="35" src="images/json.svg">
     <img title="Git" height="35" src="images/git-original.svg">
     <img title="GitHub" height="35" src="images/github.svg">
-  </h2>
-
-
-<hr>
+  </p>
