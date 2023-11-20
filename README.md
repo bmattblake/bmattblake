@@ -12,7 +12,7 @@
 A few things about me:
   <ul>
     <li> :earth_americas: I am based near Washington D.C.</li>
-    <li> :envelope: You can contact me at https://www.linkedin.com/in/matthew-at-psu/, or matthew.blake@blake-tech.com</li>
+    <li> :envelope: You can contact me on <a href="https://www.linkedin.com/in/matthew-at-psu/"> LinkedIn</a>, or <a href="mailto:matthew.blake@blake-tech.com"> matthew.blake@blake-tech.com</a></li>
     <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/personal-portfolio">My Personal portfolio</a></li>
   </ul>
 
