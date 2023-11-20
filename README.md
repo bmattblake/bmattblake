@@ -18,7 +18,10 @@ A few things about me:
 
 <h1> :man_technologist: Languages & Libraries & Tools</h2><br>
 <p>
-  Languages: <img title="Python" height="35" src="images/python-original.svg">
+  Languages: 
+  <img title="Python" height="35" src="images/python-original.svg">
+  <img title="HTML5" height="35" src="images/html5.svg">
+  <img title="CSS" height="35" src="images/css.svg">
 </p>
 <be>
 <p>
@@ -31,9 +34,7 @@ A few things about me:
 </p>
 <br>
   <p>
-    <img title="HTML5" height="35" src="images/html5.svg">
-    <img title="CSS" height="35" src="images/css.svg">
-    <img title="JSON" height="35" src="images/json.svg">
+    Tools
     <img title="Git" height="35" src="images/git-original.svg">
     <img title="GitHub" height="35" src="images/github.svg">
   </p>
