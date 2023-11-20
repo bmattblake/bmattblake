@@ -17,7 +17,7 @@ A few things about me:
     <li> :link: Visit my website where I show off my projects at <a href="https://blake-tech.com">blake-tech.com</a>.</li>
   </ul>
 
-<h1> :man_technologist: Technologies</h2>
+<h1> :man_technologist:Technologies</h2>
 <h3>
   Languages: <br>
   <img title="Python" height="35" src="images/python-original.svg">
