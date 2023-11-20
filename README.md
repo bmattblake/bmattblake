@@ -17,7 +17,7 @@ A few things about me:
     <li> :link: Visit my website where I show off my projects at <a href="https://blake-tech.com">blake-tech.com</a></li>
   </ul>
 
-<h1> :man_technologist: Technologies</h2><br>
+<h1> :man_technologist: Technologies</h2>
 <h3>
   Languages: <br>
   <img title="Python" height="35" src="images/python-original.svg">
@@ -33,7 +33,6 @@ A few things about me:
   <img title="Seaborn" height="35" src="images/seaborn.svg">
   <img title="Scikit Learn" height="35" src="images/Scikit_learn.svg">
 </h3>
-<br>
 <h3>
   Tools: <br>
   <img title="Git" height="35" src="images/git-original.svg">
