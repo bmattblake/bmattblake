@@ -8,8 +8,9 @@
    <h1>	:desktop_computer:  IT Professional</h1>
 <p>
   Hi, my name is Matthew Blake. I am a Cybersecurity Student at Penn State and a Security Risk Management Intern at Exelon. I have two years of IT experience, and my technical expertise includes network security, cloud computing, Python programming, and more. 
-<br>
-A few things about me:
+  <br>
+  <br>
+  A few things about me:
   <ul>
     <li> :earth_americas: I am based near Washington D.C.</li>
     <li> :envelope: You can contact me on <a href="https://www.linkedin.com/in/matthew-at-psu/"> LinkedIn</a>, or at <a href="mailto:matthew.blake@blake-tech.com"> matthew.blake@blake-tech.com</a>.</li>
