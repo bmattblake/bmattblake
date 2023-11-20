@@ -30,14 +30,21 @@
   <img title="CSS" height="45" src="images/css.png">
 </h3>
 <be>
+  <!--
 <h3>
   Libraries/Packages: <br>
-  <img title="Numpy" height="45" src="images/numpy.png">
+  <img title="NumPy" height="45" src="images/numpy.png">
   <img title="Pandas" height="45" src="images/pandas.png">
   <img title="Matplotlib" height="45" src="images/matplotlib.png">
   <img title="Seaborn" height="45" src="images/seaborn.png">
   <img title="Scikit Learn" height="45" src="images/Scikit_learn.png">
+  <img title="Flask" height="45" src="images/flask.png">
+  <img title="Django" height="45" src="images/django.png">
+  <img title="MonngoDB" height="45" src="images/mongodb.png">
+  <img title="Selenium" height="45" src="images/selenium.png">
+  <img title="Scapy" height="45" src="images/scapy.png">
 </h3>
+  -->
 <h3>
   Tools: <br>
   <img title="Git" height="35" src="images/git-original.svg">
