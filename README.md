@@ -17,13 +17,13 @@ A few things about me:
     <li> :link: Visit my website where I show off my projects at <a href="https://blake-tech.com">blake-tech.com</a></li>
   </ul>
 
-<h1> :man_technologist: Languages & Libraries & Tools</h2><br>
-<p>
-  Languages: 
+<h1> :man_technologist: Technologies</h2><br>
+<h3>
+  Languages: <be>
   <img title="Python" height="35" src="images/python-original.svg">
   <img title="HTML5" height="35" src="images/html5.svg">
   <img title="CSS" height="35" src="images/css.svg">
-</p>
+</h3>
 <be>
 <p>
   Libraries/Packages:
