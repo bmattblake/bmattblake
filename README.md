@@ -14,7 +14,7 @@ A few things about me:
     <li> :earth_americas: I am based near Washington D.C.</li>
     <li> :envelope: You can contact me on <a href="https://www.linkedin.com/in/matthew-at-psu/"> LinkedIn</a>, or <a href="mailto:matthew.blake@blake-tech.com"> matthew.blake@blake-tech.com</a></li>
     <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/personal-portfolio">My Personal portfolio</a></li>
-    <li> Visit my website where I show off my projects at <a href="blake-tech.com">blake-tech.com</a></li>
+    <li> Visit my website where I show off my projects at <a href="https://blake-tech.com">blake-tech.com</a></li>
   </ul>
 
 <h1> :man_technologist: Languages & Libraries & Tools</h2><br>
