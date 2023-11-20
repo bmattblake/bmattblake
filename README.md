@@ -33,8 +33,8 @@ A few things about me:
   <img title="Scikit Learn" height="35" src="images/Scikit_learn.svg">
 </p>
 <br>
-  <p>
-    Tools
-    <img title="Git" height="35" src="images/git-original.svg">
-    <img title="GitHub" height="35" src="images/github.svg">
-  </p>
+<p>
+  Tools
+  <img title="Git" height="35" src="images/git-original.svg">
+  <img title="GitHub" height="35" src="images/github.svg">
+</p>
