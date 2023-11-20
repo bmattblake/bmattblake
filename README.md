@@ -52,11 +52,10 @@
   <img title="Wireshark" height="45" src="images/wireshark.png">
   <img title="Nmap" height="45" src="images/nmap.png">
   <img title="VMware" height="45" src="images/vmware.png">
-  <img title="Autopsy" height="45" src="images/autopsy.png">]
+  <img title="Autopsy" height="45" src="images/autopsy.png">
   <img title="Cisco" height="45" src="images/cisco.png">
   <img title="Git" height="45" src="images/git-original.svg">
   <img title="GitHub" height="45" src="images/github.svg">
   <img title="Windows" height="45" src="images/windows.png">
-  <img title="Nmap" height="45" src="images/nmap.png">
   <img title="Linux" height="45" src="images/linux.png">
 </h3>
