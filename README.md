@@ -7,16 +7,15 @@
 </h1>
    <h1>IT Professional</h1>
 <p>
-  Hi, my name is Matthew Blake. I am a Cybersecurity Student at Penn State and a Security Risk Management Intern at Exelon.
-  <br>
-  <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
-  <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
-  <br>
-  📚 I’m currently focusing on Data Science 
-  <br>
-  📫 How to reach me 👇
+  Hi, my name is Matthew Blake. I am a Cybersecurity Student at Penn State and a Security Risk Management Intern at Exelon. I have two years of IT experience, and my technical expertise includes network security, cloud computing, Python programming, and more. 
+<be>
+A few things about me:
+  <ul>
+    <li> :earth_americas: I am based near Washington D.C.</li>
+    <li> :envelope: You can contact me at https://www.linkedin.com/in/matthew-at-psu/, or matthew.blake@blake-tech.com</li>
+    <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/personal-portfolio">My Personal portfolio</a></li>
+  </ul>
+
 </p>
 <p align="center"> <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:haleemborham3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
   <!--  <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> --> 
