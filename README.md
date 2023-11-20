@@ -21,21 +21,32 @@
 <h1> :man_technologist:Technologies</h2>
 <h3>
   Languages: <br>
-  <img title="Python" height="35" src="images/python-original.svg">
-  <img title="HTML5" height="35" src="images/html5.svg">
-  <img title="CSS" height="35" src="images/css.svg">
+  <img title="Python" height="45" src="images/python.png">
+  <img title="Java" height="45" src="images/java-original.svg">
+  <img title="MySQL" height="45" src="images/mysql.png">
+  <img title="R" height="45" src="images/rstudio.png">
+  <img title="Bash" height="45" src="images/bash.png">
+  <img title="HTML5" height="45" src="images/html5.png">
+  <img title="CSS" height="45" src="images/css.png">
 </h3>
 <be>
+  <!--
 <h3>
   Libraries/Packages: <br>
-  <img title="Numpy" height="35" src="images/numpy.svg">
-  <img title="Pandas" height="35" src="images/pandas.svg">
-  <img title="Matplotlib" height="35" src="images/matplotlib.svg">
-  <img title="Seaborn" height="35" src="images/seaborn.svg">
-  <img title="Scikit Learn" height="35" src="images/Scikit_learn.svg">
+  <img title="NumPy" height="45" src="images/numpy.png">
+  <img title="Pandas" height="45" src="images/pandas.png">
+  <img title="Matplotlib" height="45" src="images/matplotlib.png">
+  <img title="Seaborn" height="45" src="images/seaborn.png">
+  <img title="Scikit Learn" height="45" src="images/Scikit_learn.png">
+  <img title="Flask" height="45" src="images/flask.png">
+  <img title="Django" height="45" src="images/django.png">
+  <img title="MonngoDB" height="45" src="images/mongodb.png">
+  <img title="Selenium" height="45" src="images/selenium.png">
+  <img title="Scapy" height="45" src="images/scapy.png">
 </h3>
+  -->
 <h3>
   Tools: <br>
-  <img title="Git" height="35" src="images/git-original.svg">
-  <img title="GitHub" height="35" src="images/github.svg">
+  <img title="Git" height="45" src="images/git-original.svg">
+  <img title="GitHub" height="45" src="images/github.png">
 </h3>
