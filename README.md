@@ -1,15 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bmattblake.bmattblake" alt="bmattblake">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+%F0%9F%91%8B+I'm+Matthew!;Nice+to+meet+you!!&center=true&size=30">
   </a>
 </h1>
-   
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-<p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+   <h1>IT Professional</h1>
+<p>
+  Hi, my name is Matthew Blake. I am a Cybersecurity Student at Penn State and a Security Risk Management Intern at Exelon.
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
