@@ -16,9 +16,9 @@ A few things about me:
     <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/personal-portfolio">My Personal portfolio</a></li>
   </ul>
 
-<h2 align="center"> :man_technologist: Languages & Frameworks & Tools</h2><br>
-<p align="center">
-  <img title="C++" height="25" src="images/cpp.svg"></code>
+<h1 align="center"> :man_technologist: Languages & Frameworks & Tools</h2><br>
+<p>
+  <img title="C++" height="35" src="images/cpp.svg"></code>
   <img title="Problem Solving" height="25" src="images/problemSolving.png">
   <img title="Python" height="25" src="images/python-original.svg">
   <img title="Numpy" height="25" src="images/numpy.svg">
