@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bmattblake.bmattblake" alt="bmattblake">    
 
-<h1 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+%F0%9F%91%8B+I'm+Matthew!;Nice+to+meet+you!!&center=true&size=30">
   </a>
-</h1>
+<p>
    <h1>	:desktop_computer:  IT Professional</h1>
 <p>
   Hi, my name is Matthew Blake. I am a Cybersecurity Student at Penn State and a Security Risk Management Intern at Exelon. I have CompTIA Security+ and two years of IT experience, and my technical expertise includes network security, cloud computing, Python programming, and more. 
