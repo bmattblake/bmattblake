@@ -16,18 +16,27 @@ A few things about me:
     <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/personal-portfolio">My Personal portfolio</a></li>
   </ul>
 
-<h1> :man_technologist: Languages & Frameworks & Tools</h2><br>
-<p>
-  <img title="Python" height="35" src="images/python-original.svg">
+<h1> :man_technologist: Languages & Libraries & Tools</h2><br>
+<h2>
+  Languages: <img title="Python" height="35" src="images/python-original.svg">
+</h2>
+<be>
+<h2>
+  Libraries/Packages:
   <img title="Numpy" height="35" src="images/numpy.svg">
   <img title="Pandas" height="35" src="images/pandas.svg">
   <img title="Matplotlib" height="35" src="images/matplotlib.svg">
   <img title="Seaborn" height="35" src="images/seaborn.svg">
   <img title="Scikit Learn" height="35" src="images/Scikit_learn.svg">
-  <img title="HTML5" height="35" src="images/html5.svg">
-  <img title="CSS" height="35" src="images/css.svg">
-  <img title="JSON" height="35" src="images/json.svg">
-  <img title="Git" height="35" src="images/git-original.svg">
-  <img title="GitHub" height="35" src="images/github.svg">
-</p>
+</h2>
+<br>
+  <h2>
+    <img title="HTML5" height="35" src="images/html5.svg">
+    <img title="CSS" height="35" src="images/css.svg">
+    <img title="JSON" height="35" src="images/json.svg">
+    <img title="Git" height="35" src="images/git-original.svg">
+    <img title="GitHub" height="35" src="images/github.svg">
+  </h2>
+
+
 <hr>
