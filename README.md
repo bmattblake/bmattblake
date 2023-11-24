@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+%F0%9F%91%8B+I'm+Matthew!;Nice+to+meet+you!!&center=true&size=30">
   </a>
 <p>
-   <h1>	:desktop_computer:  IT Professional</h1>
+   <h1>	:desktop_computer: Programmer, IT Professional</h1>
 <p>
   Hi, my name is Matthew Blake. I am a Cybersecurity Student at Penn State and a Security Risk Management Intern at Exelon. I have the CompTIA Security+ and two years of IT experience, and my technical expertise includes network security, cloud computing, Python programming, and more. 
   <br>
@@ -18,7 +18,7 @@
     <li> :link: Visit my website where I show off my projects at <a href="https://blake-tech.com">blake-tech.com</a>.</li>
   </ul>
 
-<h1> :man_technologist:Technologies</h2>
+<h2> :man_technologist:Technologies</h2>
 <h3>
   Languages: <br>
   <img title="Python" height="45" src="images/python.png">
