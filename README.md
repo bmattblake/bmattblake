@@ -4,15 +4,15 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+%F0%9F%91%8B+I'm+Matthew!;Nice+to+meet+you!!&center=true&size=30">
   </a>
-<p>
    <h1>	:desktop_computer: Programmer, IT Professional</h1>
-<p>
+  <h5>
   <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=5KBQCGXVNV0PVSWJ">
     <img title="CompTIA Security+" height="75" src="images/secplus.png">
   </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/90e22f31-1c63-453f-ab95-7e33d6e0bd1a/badges/1611953">
     <img title="Google Cloud Essentials Badge" height="75" src="images/gcp_essentials.png">
   </a>
+  </h5>
   <br>
   Hi, my name is Matthew Blake. I am a Cybersecurity Student at Penn State and a Security Risk Management Intern at Exelon. I have the CompTIA Security+ and two years of IT experience, and my technical expertise includes network security, cloud computing, Python programming, and more. 
   <br>
