@@ -7,6 +7,9 @@
 <p>
    <h1>	:desktop_computer: Programmer, IT Professional</h1>
 <p>
+  <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=5KBQCGXVNV0PVSWJ">
+    <img title="CompTIA Security+" height="75" src="images/secplus.png"> <br>
+  </a>
   Hi, my name is Matthew Blake. I am a Cybersecurity Student at Penn State and a Security Risk Management Intern at Exelon. I have the CompTIA Security+ and two years of IT experience, and my technical expertise includes network security, cloud computing, Python programming, and more. 
   <br>
   <br>
