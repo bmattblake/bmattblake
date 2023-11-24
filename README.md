@@ -21,7 +21,7 @@
   <ul>
     <li> :earth_americas: I am based near Washington D.C.</li>
     <li> :envelope: You can contact me on <a href="https://www.linkedin.com/in/matthew-at-psu/"> LinkedIn</a>, or at <a href="mailto:matthew.blake@blake-tech.com"> matthew.blake@blake-tech.com</a>.</li>
-    <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/personal-portfolio">My Personal Portfolio</a>.</li>
+    <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/SIEM-Honeypot-Lab">a SIEM-Honeypot Lab</a>.</li>
     <li> :link: Visit my website where I show off my projects at <a href="https://blake-tech.com">blake-tech.com</a>.</li>
   </ul>
 
