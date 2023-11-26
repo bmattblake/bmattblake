@@ -20,7 +20,7 @@
     <img title="Google Cloud Essentials Badge" height="75" src="images/gcp_essentials.png">
   </a>
   </h5>
-  <br>
+
   Hi, my name is Matthew Blake. I am a Cybersecurity Student at Penn State and a Security Risk Management Intern at Exelon. I have the CompTIA Security+ and two years of IT experience, and my technical expertise includes network security, cloud computing, Python programming, and more. 
   <br>
   <br>
