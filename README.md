@@ -4,6 +4,13 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+%F0%9F%91%8B+I'm+Matthew!;Nice+to+meet+you!!&center=true&size=30">
   </a>
+  <h1> :rocket: Featured Projects </h1>
+  <ul>
+    <li> :honey_pot: <a href="https://github.com/bmattblake/SIEM-Honeypot-Lab">SIEM-Honeypot Lab</a></li>
+    <li> :card_index_dividers: <a href="https://github.com/bmattblake/Sentinel-File-Inegrity-Monitor">File Integrity Monitor</a></li>
+    <li> :globe_with_meridians: <a href="https://github.com/bmattblake/IQ-PCAP-Analyzer">Pcap File Analyzer</a></li>
+  </ul>
+  
    <h1>	:desktop_computer: Programmer, IT Professional</h1>
   <h5>
   <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=5KBQCGXVNV0PVSWJ">
