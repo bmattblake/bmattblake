@@ -6,9 +6,9 @@
   </a>
   <h1> :rocket: Featured Projects </h1>
   <ul>
-    <li> :honey_pot: <a href="https://github.com/bmattblake/SIEM-Honeypot-Lab">SIEM-Honeypot Lab</a></li>
-    <li> :card_index_dividers: <a href="https://github.com/bmattblake/Sentinel-File-Inegrity-Monitor">File Integrity Monitor</a></li>
-    <li> :globe_with_meridians: <a href="https://github.com/bmattblake/IQ-PCAP-Analyzer">Pcap File Analyzer</a></li>
+    <li> :honey_pot: <a href="https://github.com/bmattblake/SIEM-Honeypot-Lab">SIEM-Honeypot Lab</a> - Deployed a vulnerable virtual machine to the public internet using Azure Cloud to act as a honeypot. Used Azure Log Analytics Workspace, Microsoft Sentinel (Azure’s cloud SIEM service), and a custom PowerShell script to display global attack data (RDP brute-force) on world map.</li>
+    <li> :card_index_dividers: <a href="https://github.com/bmattblake/Sentinel-File-Inegrity-Monitor">File Integrity Monitor</a> - Java program that uses the Windows API to constantly monitor user-specified folders and report any changes to files within the watchlist via text message or email.</li>
+    <li> :globe_with_meridians: <a href="https://github.com/bmattblake/IQ-PCAP-Analyzer">Pcap File Analyzer</a> - Command-line utility that can parse PCAP files. Iterates through packets and uses the Ethernet, IP, and TCP/UDP headers to recognize patterns, summarize statistics about the network traffic, and track TCP sessions between two devices.</li>
   </ul>
   
    <h1>	:desktop_computer: Programmer, IT Professional</h1>
