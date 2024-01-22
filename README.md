@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   <!-- https://git.io/typing-svg -->
-  <a href="https://blake-tech.com">
+  <a href="https://www.blake-tech.com">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+%F0%9F%91%8B+I'm+Matthew;Nice+to+meet+you!!&center=true&size=30">
   </a>
   <h1> :rocket: Featured Projects </h1>
@@ -35,9 +35,9 @@
   A few things about me:
   <ul>
     <li> :earth_americas: I am based near Washington D.C.</li>
-    <li> :envelope: You can contact me on <a href="https://www.linkedin.com/in/matthew-at-psu/"> LinkedIn</a>, or at <a href="mailto:matthew.blake@blake-tech.com"> matthew.blake@blake-tech.com</a></li>
+    <li> :envelope: You can contact me on <a href="https://www.linkedin.com/in/matthew-at-psu/"> LinkedIn</a>, or at <a href="mailto:mblake@blake-tech.com"> mblake@blake-tech.com</a></li>
     <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/Classifying-Phishing-Websites-With-AI">Classifying Phishing Websites With AI</a></li>
-    <li> :link: Visit my website where I show off my projects at <a href="https://blake-tech.com">blake-tech.com</a></li>
+    <li> :link: Visit my website where I show off my projects at <a href="https://www.blake-tech.com">www.blake-tech.com</a></li>
   </ul>
 </p>
 <h2> :man_technologist:Technologies</h2>
