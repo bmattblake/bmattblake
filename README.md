@@ -74,7 +74,7 @@
   <img title="Nmap" height="45" src="images/nmap.png">
   <img title="VMware" height="45" src="images/vmware.png">
   <img title="Autopsy" height="45" src="images/autopsy.png">
-  <img title="Autopsy" height="45" src="images/docker.png">
+  <img title="Docker" height="45" src="images/docker.png">
   <img title="Git" height="45" src="images/git-original.svg">
   <img title="GitHub" height="45" src="images/github.svg">
   <img title="Windows" height="45" src="images/windows.png">
