@@ -3,7 +3,7 @@
 <p align="center">
   <!-- https://git.io/typing-svg -->
   <a href="https://www.blake-tech.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+%F0%9F%91%8B+I'm+Matthew;Nice+to+meet+you!!&center=true&size=30">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+%F0%9F%91%8B+I'm+Matthew;Nice+to+meet+you!!"> <br>
   </a>
   <h1> :rocket: Featured Projects </h1>
   <p>
