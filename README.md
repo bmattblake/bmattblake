@@ -29,7 +29,10 @@
   </a>
   </h5>
 <p>
-  Hi! My name is Matthew. I'm a cybersecurity professional and programmer. But I also enjoy fishing, philosophy, videography, and music in my free time. I've got a Bachelor's degree in Cybersecurity, along with a CompTIA Security+ certification. In my four years of professional experience, I've developed quite a few skills, but I'd say the highlights are network security, cloud computing, Python programming, and SIEM solutions (Splunk & Microsoft Sentinel). 
+  Hey there, 
+  <br>
+  <br>
+  My name is Matthew. I'm a cybersecurity professional and programmer, but I also enjoy fishing, philosophy, videography, and music in my free time. I've got a Bachelor's degree in Cybersecurity, along with a CompTIA Security+ certification. In my four years of professional experience, I've developed quite a few skills, but I'd say the highlights are network security, cloud computing, Python programming, and SIEM solutions (Splunk & Microsoft Sentinel). 
   <br>
   <br>
   A few things about me:
