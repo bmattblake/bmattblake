@@ -15,7 +15,7 @@
       :globe_with_meridians: <a href="https://github.com/bmattblake/IQ-PCAP-Analyzer">Pcap File Analyzer</a> - Command-line utility that can parse PCAP files. Iterates through packets and uses the Ethernet, IP, and TCP/UDP headers to recognize patterns, summarize statistics about the network traffic, and track TCP sessions between two devices.
     </li>
     <li>
-      :fish: <a href="https://github.com/bmattblake/Classifying-Phishing-Websites-With-AI/tree/main">Classifying Phishing Websites With AI</a> - Python notebook that details a step-by-step process of cleaning and processing real-world phishing website data collected by the <a href="https://apwg.org/trendsreports/">Anti-Phishing Working Group</a>. Trained an AI model to classify websites as phishing or not phishing based on the website's properties.
+      :fish: <a href="https://github.com/bmattblake/Classifying-Phishing-Websites-With-AI/tree/main">Classifying Phishing Websites With AI</a> - Python notebook that details a step-by-step process of cleaning and processing real-world phishing website data collected by the <a href="https://apwg.org/trendsreports/">Anti-Phishing Working Group</a>. Trained an AI model to classify websites as phishing or non-phishing based on the website's properties.
     </li>
   </ul>
   </p>
@@ -29,12 +29,12 @@
   </a>
   </h5>
 <p>
-  Hi, my name is Matthew Blake. I am a Cybersecurity Student at Penn State and a Security Risk Management Intern at Exelon. I have the CompTIA Security+ and two years of IT experience, and my technical expertise includes network security, cloud computing, Python programming, and more. 
+  Hi! My name is Matthew. I'm a cybersecurity professional and programmer. But I also enjoy fishing, philosophy, videography, and music in my free time. I've got a Bachelor's degree in Cybersecurity, along with a CompTIA Security+ certification. In my four years of professional experience, I've developed quite a few skills, but I'd say the highlights are network security, cloud computing, Python programming, and SIEM solutions (Splunk & Microsoft Sentinel). 
   <br>
   <br>
   A few things about me:
   <ul>
-    <li> :earth_americas: I am based near Washington D.C.</li>
+    <li> :earth_americas: I am based near Washington, D.C.</li>
     <li> :envelope: You can contact me on <a href="https://www.linkedin.com/in/matthew-at-psu/"> LinkedIn</a>, or at <a href="mailto:mblake@blake-tech.com"> mblake@blake-tech.com</a></li>
     <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/Classifying-Phishing-Websites-With-AI">Classifying Phishing Websites With AI</a></li>
     <li> :link: Visit my website where I show off my projects at <a href="https://www.blake-tech.com">www.blake-tech.com</a></li>
