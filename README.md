@@ -58,7 +58,7 @@
   <img title="CSS" height="45" src="images/css.png">
 </h3>
 <be>
-
+<!--
 <h3>
   Libraries/Packages: <br>
   <img title="NumPy" height="45" src="images/numpy.png">
@@ -72,6 +72,7 @@
   <img title="Selenium" height="45" src="images/selenium.png">
   <img title="Scapy" height="45" src="images/scapy.png">
 </h3>
+-->
 <h3>
   Tools: <br>
   <img title="Azure" height="45" src="images/azure.png">
