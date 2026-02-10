@@ -19,7 +19,7 @@
     </li>
   </ul>
   </p>
-   <h1>	:desktop_computer: Programmer, IT Professional</h1>
+   <h1>	:desktop_computer: Cyber Practitioner, Programmer</h1>
   <h5>
   <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=5KBQCGXVNV0PVSWJ">
     <img title="CompTIA Security+" height="75" src="images/secplus.png">
@@ -39,7 +39,7 @@
   <ul>
     <li> :earth_americas: I am based near Washington, D.C.</li>
     <li> :envelope: You can contact me on <a href="https://www.linkedin.com/in/matthew-at-psu/"> LinkedIn</a>, or at <a href="mailto:mblake@blake-tech.com"> mblake@blake-tech.com</a></li>
-    <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/Classifying-Phishing-Websites-With-AI">Classifying Phishing Websites With AI</a></li>
+    <li> :rocket: I am currently working on <a href="https://github.com/bmattblake/personal-portfolio-frontend">my personal portfolio</a></li>
     <li> :link: Visit my website where I show off my projects at <a href="https://www.blake-tech.com">www.blake-tech.com</a></li>
   </ul>
 </p>
