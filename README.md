@@ -19,7 +19,7 @@
     </li>
   </ul>
   </p>
-   <h1>	:desktop_computer: Cyber Practitioner, Programmer</h1>
+   <h1>	:desktop_computer: Cybersecurity Practitioner, Programmer</h1>
   <h5>
   <a href="https://www.credly.com/badges/5053a174-ecc5-49a0-96e5-7c37a1349da3/public_url">
     <img title="GIAC Information Security Professional (GISP)" height="75" src="images/GISP.png">
